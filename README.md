@@ -22,4 +22,4 @@ Those are projects for computer vision course
   <img src="https://github.com/yc2423/Computer-Vision/blob/master/pa4/submit/tentacle_normals.png" width="250">
 </p></br>
 
-**pa5:** C
+**pa5:** Convolutional Neural Network
